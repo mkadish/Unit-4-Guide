@@ -1,0 +1,119 @@
+#bg{
+    background: url(../images/maxresdefault.jpg);
+    
+}
+h1{
+    background: url(../images/oak.jpg);
+    margin-right: 33%;
+    margin-left: 33%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-family: 'Yeon Sung', cursive;
+    color:palegoldenrod;
+    border: 2px;
+    border-color: palegoldenrod;
+}
+#instructions{
+    background: url(../images/mahogany.jpg);
+    font-family: 'Yeon Sung', cursive;
+    color:palegoldenrod;
+    padding: 10px;
+    padding-bottom: 2px;
+    width: 30%;
+    border: 2px;
+    border-color: palegoldenrod;
+    position: absolute;
+    top: 60px;
+}
+#RachelRiley{
+    Height: 300px;
+    Width: 300px;
+    background-color: black;
+    color: white;
+    position: fixed;
+    Top: 85px;
+    Right: 40%;
+    text-align: center;
+    font-size: 175px;
+    border-radius: 25px;
+
+}
+
+#scoreboard{
+    background: url(../images/mahogany.jpg);
+    font-family: 'Yeon Sung', cursive;
+    color:palegoldenrod;
+    padding: 10px;
+    padding-bottom: 2px;
+    width: 20%;
+    border: 2px;
+    border-color: palegoldenrod;
+    position: fixed;
+    Top: 85px;
+    font-size: 25px;
+    right: 15px;
+}
+
+footer{
+    position: absolute;
+    bottom: 5;
+}
+
+#gem1{
+    width: 200px;
+    height: 200px;
+    margin-right: 10%;
+    margin-left: 5%;
+    position: fixed;
+    bottom: 5px;
+    left: 5%
+    
+}
+
+#gem2{
+    width: 200px;
+    height: 200px;
+    margin-right: 10%;
+    margin-left: 20%;
+    position: fixed;
+    bottom: 5px;
+    left: 5%
+}
+
+#gem3{
+    width: 200px;
+    height: 200px;
+    margin-right: 10%;
+    margin-left: 40%;
+    position: fixed;
+    bottom: 5px;
+    left: 5%
+}
+
+#gem4{
+    width: 200px;
+    height: 200px;
+    margin-right: 10%;
+    margin-left: 60%;
+    position: fixed;
+    bottom: 5px;
+    left: 5%
+
+}
+#value{
+    width: 200px;
+    height: 160px;
+    background: url(../images/mahogany.jpg);
+    font-family: 'Yeon Sung', cursive;
+    color:palegoldenrod;
+    margin-right: 15px;
+    margin-left: 15px;
+    position: fixed;
+    bottom: 225px;
+    padding-top: 15px;
+    left: 60%;
+    border-color: palegoldenrod;
+    position: fixed;
+    font-size: 30px;
+
+}
